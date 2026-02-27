@@ -1,8 +1,6 @@
 # FOA Extract
 
-CLI tool that extracts Funding Opportunity Announcement (FOA) metadata from Grants.gov and NSF pages, applies keyword tagging with optional TF-IDF classification, and exports results as JSON and CSV.
-
-Built for the [HumanAI Foundation](https://humanai.foundation/) GSoC screening task.
+CLI tool that extracts Funding Opportunity Announcement (FOA) metadata from Grants.gov and NSF pages, applies deterministic keyword tagging with while also trying completely optional TF-IDF classification, and exports results as JSON and CSV.
 
 ---
 
