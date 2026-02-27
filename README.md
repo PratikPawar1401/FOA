@@ -1,6 +1,6 @@
 # FOA Extract
 
-CLI tool that extracts Funding Opportunity Announcement (FOA) metadata from Grants.gov and NSF pages, applies deterministic keyword tagging with while also trying completely optional TF-IDF classification, and exports results as JSON and CSV.
+CLI tool that extracts Funding Opportunity Announcement (FOA) metadata from Grants.gov and NSF pages, applies deterministic keyword tagging and exports results as JSON and CSV. I am also trying to do completely optional TF-IDF classification here but it can be bypassed. 
 
 ---
 
